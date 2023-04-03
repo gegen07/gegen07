@@ -15,5 +15,5 @@
  
 - :school: Federal University of Viçosa, Florestal - Brazil
 
-- :pencil2: Junior Research Student at NESPED-UFV.
+- :pencil2: Researcher at NESPED-UFV.
 
