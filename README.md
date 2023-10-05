@@ -9,7 +9,7 @@
 
 - :memo: [Blog](https://gegen07.github.io/#/blog).
  
-- :school: Federal University of Viçosa, Florestal - Brazil
+- :school: Federal University of Viçosa - Brazil
 
 - :pencil2: Researcher at NESPED-UFV.
 
