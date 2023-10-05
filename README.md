@@ -8,10 +8,6 @@
 ### About
 
 - :memo: [Blog](https://gegen07.github.io/#/blog).
-
-- :books: Learning from Data.
-
-- :sunny: [GSoC '21 Student](https://summerofcode.withgoogle.com/projects/#6451566590033920)
  
 - :school: Federal University of Viçosa, Florestal - Brazil
 
